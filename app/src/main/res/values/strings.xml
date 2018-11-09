@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhraseRecorder</string>
+    <string name="instruction">Запис пішов. Будь-ласка, прочитайте вголос наступну фразу (номер читати не треба):</string>
+</resources>
